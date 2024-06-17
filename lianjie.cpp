@@ -27,6 +27,6 @@ int main(){
 	two->left=two_1;
 	two->right=two_2;
 	
-	printf("%c\n",one.data);
+	printf("%c & simple\n",one.data);
 //	printf();
 }
